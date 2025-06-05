@@ -12,7 +12,7 @@
     
   ----
   
-  ![AWARE](https://blogs.oracle.com/culture-inclusion/post/accenture-teams-with-oracle-to-make-employers-more-aware-of-inclusion) - a human capital management (HCM) solution that uses Machine Learning to measure and compare inclusion, diversity, and equity data and predict progress. 
+  ![AWARE](https://blogs.oracle.com/culture-inclusion/post/accenture-teams-with-oracle-to-make-employers-more-aware-of-inclusion) - a human capital management (HCM) solution that uses machine learning to measure and compare inclusion, diversity, and equity data and predict progress. 
     
   ----
 
