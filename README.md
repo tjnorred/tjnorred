@@ -5,14 +5,26 @@
 
 <details>
   <summary> :gear: Projects </summary>  
+  
+  ----
+  
+  ![RECON]() - a supply chain management (SCM) reporting solution that provides a central location to visual every step of your supply chain workflow.
     
   ----
   
-  Language Immersion Virtual Environment (LIVE) - a virtual 2D language immersion environment with Japanese as the target language, using the GPT API to facilitate conversation between the player and NPCs.
+  ![AWARE](https://blogs.oracle.com/culture-inclusion/post/accenture-teams-with-oracle-to-make-employers-more-aware-of-inclusion) - a human capital management (HCM) solution that uses Machine Learning to measure and compare inclusion, diversity, and equity data and predict progress. 
+    
+  ----
+
+  ![BORG]() - an automated log analyzer for a large network vendor that allows quick identification of problems in customer environments.
   
   ----
   
-  Space Explorer - a digital astronomy log book that includes details on the stellar object being viewed as well as a calculator for planetary travel.
+  ![Language Immersion Virtual Environment (LIVE)]() - a virtual 2D language immersion environment with Japanese as the target language, using the GPT API to facilitate conversation between the player and NPCs.
+  
+  ----
+  
+  ![Space Explorer]() - a digital astronomy log book that includes details on the stellar object being viewed as well as a calculator for planetary travel.
     
   ----
   
