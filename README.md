@@ -8,7 +8,7 @@
   
   ----
   
-  ![RECON]() - a supply chain management (SCM) reporting solution that provides a central location to visual every step of your supply chain workflow.
+  ![RECON]() - a supply chain management (SCM) reporting solution that provides a central location to visualize every step of your supply chain workflow.
     
   ----
   
