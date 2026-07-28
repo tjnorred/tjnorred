@@ -6,53 +6,61 @@
 ### :computer: Skills
 
 #### Languages
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&style=flat-square)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat-square)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+#### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vuejs-%2335495E.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![htmx](https://img.shields.io/badge/HTMX-%233366CC.svg?style=flat&logo=htmx&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-%238BC0D0.svg?style=flat&logo=alpinedotjs&logoColor=black)
+![Datastar](https://img.shields.io/badge/Datastar-%23020c17.svg?style=flat&logoColor=white)
 
-
-#### Databases
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
+#### Databases & Storage
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFE873?logo=duckdb&logoColor=000000&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square)
 
-#### DevOps
+#### MLOps & AI
+[![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)](https://mlflow.org/)
+[![Kubeflow](https://img.shields.io/badge/Kubeflow-1154B9?logo=Kubeflow&logoColor=white)](https://www.kubeflow.org/)
+[![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?logo=WeightsAndBiases&logoColor=black)](https://wandb.ai/)
+
+#### DevOps & Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?logo=githubactions&logoColor=white&style=flat-square)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat-square)
-![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=00B45F&style=flat-square)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
-#### Tools
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat-square)
-![dbt](https://img.shields.io/badge/dbt-FB542B?logo=dbt&logoColor=white&style=flat-square)
-![dlt](https://img.shields.io/badge/dlt-FF5000?logo=data&logoColor=white&style=flat-square)
+#### Tools & Platforms
+![Kestra](https://img.shields.io/badge/Kestra-%230b0f19.svg?style=flat&logo=kestra&logoColor=%23ff6b00)
+![dbt](https://img.shields.io/badge/DBT-FB542B?logo=dbt&logoColor=white&style=flat-square)
+![dlt](https://img.shields.io/badge/DLT-FF5000?logo=data&logoColor=white&style=flat-square)
 ![Databricks](https://img.shields.io/badge/Databricks-E87722?logo=databricks&logoColor=white&style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&style=flat-square)
-![Gundam](https://img.shields.io/badge/Gundam-E60012?style=for-the-badge&labelColor=0B0B0B&style=flat-square)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&style=flat-square)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white&style=flat-square)
 
 ### :gear: Projects
+
+----
+
+###### [Language Immersion Virtual Environment (LIVE)](https://github.com/tjnorred/LIVE) - a virtual language learning environment designed to simulate real-world conversations with AI-driven NPCs. Leveraging the OpenAI GPT API, the application enables dynamic and context-aware dialogues to help users practice language skills interactively. Developed using Unity and C\#, the system combines immersive environments with conversational AI to create an engaging, life like learning experience.
 
 ----
 
@@ -68,11 +76,7 @@
 
 ----
 
-###### [Language Immersion Virtual Environment (LIVE)]() - a virtual language learning environment designed to simulate real-world conversations with AI-driven NPCs. Leveraging the OpenAI GPT API, the application enables dynamic and context-aware dialogues to help users practice language skills interactively. Developed using Unity and C\#, the system combines immersive environments with conversational AI to create an engaging, life like learning experience.
-
-----
-
-###### [Windy]() - A wind analysis application that processes and compares forecasted and real-time wind data. The system integrates with the Open-Meteo APIs to collect wind forecasts from multiple weather models and uses external sensors to ingest measured wind data. Built with Python (Flask) for the backend and PostgreSQL for data storage, the application supports insightful analysis by enabling side-by-side evaluation of predicted vs. observed wind patterns.
+###### [Windy](https://github.com/tjnorred/windy) - A wind analysis application that processes and compares forecasted and real-time wind data. The system integrates with the Open-Meteo APIs to collect wind forecasts from multiple weather models and uses external sensors to ingest measured wind data. Built with Vue for the frontend, Go for the backend, and PostgreSQL for data storage, the application supports insightful analysis by enabling side-by-side evaluation of predicted vs. observed wind patterns.
 
 ----
 
